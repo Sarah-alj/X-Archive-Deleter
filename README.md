@@ -49,16 +49,7 @@ A simple Python script to delete tweets, retweets, quote tweets, and replies fro
 
     Likes and content from 2022+ will be untouched
 
-🧼 Screenshot
 
 📄 License
 
 MIT License – feel free to fork and modify it for your own cleanup!
-
-
----
-
-### ✅ Final Tip:
-If you plan to share it publicly and reuse the script later, consider moving your keys to a `.env` file and using `python-dotenv` (I can help you do that too if you like).
-
-Let me know once you push the repo live and want help writing a better commit message or description!
