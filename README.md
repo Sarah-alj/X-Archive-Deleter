@@ -1,6 +1,6 @@
 # X-Archive-Deleter
 
-# 🧹 Tweet Cleaner Script
+# 🧹 Script
 
 A simple Python script to delete tweets, retweets, quote tweets, and replies from your Twitter archive based on year. Perfect for cleaning up your old posts without touching likes or newer tweets.
 
@@ -18,6 +18,7 @@ A simple Python script to delete tweets, retweets, quote tweets, and replies fro
   Install with:
   ```bash
   pip install tweepy
+  
 🚀 How to Use
 
     Download your Twitter archive and extract tweets.js
